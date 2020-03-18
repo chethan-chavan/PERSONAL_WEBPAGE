@@ -1,0 +1,37 @@
+ <style type="text/css">
+
+    html
+      {
+      	scroll-behavior: smooth;
+      }
+
+    .div_style
+    {
+      border: 2px solid #ddd;
+     
+       border: 1px solid #b0e0e6;
+
+    }
+
+    .div_style:hover
+      { 
+
+      	
+        box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+      	
+      }
+
+    .center1
+     {
+     	text-align: center;
+     }
+    
+
+    label,h3
+      {
+        font-variant: small-caps;
+      }
+
+
+
+  </style>
