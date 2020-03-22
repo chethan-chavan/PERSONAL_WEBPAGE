@@ -29,6 +29,17 @@ h2 span
 		color: #28a7e9;
 		font-weight: bold;
 	}
+
+.ser1
+ {
+ 	color: #28a7e9;
+		font-weight: bold;
+ }
+
+ .f1
+  {
+  	font-size:48px;
+  }
 /* end h2 */
 
 /* start calculator team upload portfolio contact */
@@ -201,7 +212,7 @@ header .social-icon li a
 /* start home */
 #home
 	{
-		background: url('../images/home-bg.jpg') no-repeat;
+		background: url('1.jpg');
 		background-size: cover;
 		padding-top: 160px;
 		padding-bottom: 100px;
